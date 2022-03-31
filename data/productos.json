@@ -1,0 +1,20 @@
+{
+  "ultima_actualizacion": "2022-03-30 22:02:57",
+  "productos": [
+    {
+      "id": 1235,
+      "nombre": "Aceite",
+      "precio": 2200
+    },
+    {
+      "id": "85b5ad98",
+      "nombre": "Harina de trigo",
+      "precio": 1000
+    },
+    {
+      "id": "794e5e37",
+      "nombre": "Tallarines",
+      "precio": 450
+    }
+  ]
+}
